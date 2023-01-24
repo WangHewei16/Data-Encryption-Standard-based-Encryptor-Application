@@ -1,4 +1,4 @@
-## Data-Encryption-Standard-DES-based-Encryptor-Application
+## Data Encryption Standard (DES) based Encryptor Application
 
 ### 1. Introduction
 In this application, I implement Data Encryption Standard (DES) algorithm project by following the description in FIPS PUB 46-3: Data Encryption Standard, which was published by NIST on October 25, 1999. It consists an encryptor and a decryptor, in encryptor, user could type the key and plaintext to generate cipher. While in decryptor, user could type the kew and cipher to generate the plaintext.
